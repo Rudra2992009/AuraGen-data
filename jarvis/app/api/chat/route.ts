@@ -2,15 +2,15 @@ import { GoogleGenerativeAI } from "@google/generative-ai"
 
 // 9 predefined API keys - will rotate through them
 const API_KEYS = [
-  "AIzaSyDWrNn2PFNEntv3FRM0Lbdmwd-tcT0ODK4",
-  "AIzaSyDyOdZgsvEp1vZIXn1AR7PeRpor8LOOLg8",
-  "AIzaSyCuSNk53R8-35D_s72xygqG5ZWqeFgEUpc",
-  "AIzaSyBvTKlnZ3E3PclGhusOrLqNT7SFhPmaZVM",
-  "AIzaSyA7ji2fRUzuFo_GXN8UpQJgl8iBmtwSaWw",
-  "AIzaSyDFZXsUWmWmW1E0ncM2nxeHU-16i822gaY",
-  "AIzaSyBLIciIHiuZ-ooZgzZvPPK0Gk1sOsL5vZ0",
-  "AIzaSyA_bVMYW4SaTlBJ3KodbYR_6PtOVzYv-F4",
-  "AIzaSyAx8vPkLsefSLqJFTmPvySENkNxV_Ig2yU",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
+  "AIzaSy*********************************",
 ]
 
 let currentKeyIndex = 0
